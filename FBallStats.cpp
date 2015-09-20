@@ -220,13 +220,13 @@ void menuList(footBallPlayers list[], int cap)
                  }
     		else if(reply==1)
     			{
-                    allStats(list, cap);    
+                    		allStats(list, cap);    
     			 }
     		else if(reply==2)
     			{
     				searchList(list, cap);
     			}
-            else if(reply==3)
+        	else if(reply==3)
     			{
     				searchByPos(list, cap);
     			}
@@ -234,7 +234,7 @@ void menuList(footBallPlayers list[], int cap)
     			{
     				addStats(list, cap);
     			}
-            else if(reply==5)
+            	else if(reply==5)
     			{
     				editList(list, cap);
     			}
