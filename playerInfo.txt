@@ -1,0 +1,11 @@
+Johnson          WR   5   41      0   235     57
+Thompson         QB  21    0   1115     0     43
+Henry            RB  13   15      0   158   1123
+Lacy             RB   4    3      0    45    400
+Sims             QB  11    0    897     0    185
+Cooper           WR   5   41      0   235     57
+Barber           FB   4    3      0    45    400
+Morris           WR   5   13      0   175     57
+Maddox           TE   1   10      0   115     60
+Hammett          RB  22   13      0   127   1127
+Jackson          QB   5    0   3897     0    678
